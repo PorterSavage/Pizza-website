@@ -1,0 +1,59 @@
+#size {
+  width: 200px;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  background-image: url(../img/pizza.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#pizzaSize {
+  position: relative;
+  left: 480px
+}
+
+.selectPizza {
+  position: relative;
+  top: 25px;
+}
+
+.selectToppings {
+  position: relative;
+  top: 35px;
+}
+
+.price {
+  position: relative;
+  top: 50px;
+}
+
+h1 {
+  color: blue;
+  font-weight: bolder;
+}
+
+p {
+  color: white;
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+label {
+  color: yellow;
+}
+
+#sizeColor {
+  color: black;
+}
+
+.jumbotron {
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: white;
+  background: rgba(128, 128, 128, 0.5);
+}
